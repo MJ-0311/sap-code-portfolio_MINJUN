@@ -122,8 +122,8 @@ KPI 타일 · 3D 공장 시각화(클릭 시 CCTV 팝업) · 간트차트/공정
 | 주요 기술 | CDS View · Association/Composition · Managed RAP · Draft · Validation · Determination · OData V4 · Fiori Elements |
 
 ### 산출물
-- [RAP 개인 최종 포트폴리오 (PPTX)](kdt2_git_upload/kdt2/KDT2_RAP_Final_Portfolio_v6.pptx)
-- [FS 기술명세서 TS (PPTX)](kdt2_git_upload/kdt2/KDT2_TS_FS_Spec.pptx)
+- [RAP 개인 최종 포트폴리오 (PDF)](kdt2_git_upload/kdt2/KDT2_RAP_Final_Portfolio_v6.pdf)
+- [FS 기술명세서 TS (PDF)](kdt2_git_upload/kdt2/KDT2_TS_FS_Spec.pdf)
 
 ### 포트폴리오 요약
 
