@@ -108,12 +108,11 @@ KPI 타일 · 3D 공장 시각화(클릭 시 CCTV 팝업) · 간트차트/공정
 - **추측이 아닌 실제 데이터 기반 개발** — 중간평가 피드백 전수 리스트업, 수정 전후 문서화하여 개선 완료
 - **모듈 간 데이터 흐름 조율(PM)** — MM·SD·FI·CO 팀원들과 인터페이스를 정의하고 통합 시나리오 완성
 
-
 ---
 
 ## KDT 심화과정 2기 — SAP RAP 프로젝트 (보강)
 
-> S-Mobile(스마트폰 Set 상품 판매 가상 유통기업) 구매·자재·FI 업무를 **SAP RAP(Managed, Draft, OData V4, Fiori Elements)** 으로 구현한 팀 및 개인 프로젝트 (FS00 ~ FS06)
+> S-Mobile(스마트폰 Set 상품 판매 가상 유통기업) 구매·자재·FI 업무를 **SAP RAP(Managed, Draft, OData V4, Fiori Elements)** 으로 구현한 개인 프로젝트 (FS00 ~ FS06)
 
 | 구분 | 내용 |
 |---|---|
@@ -123,17 +122,16 @@ KPI 타일 · 3D 공장 시각화(클릭 시 CCTV 팝업) · 간트차트/공정
 | 주요 기술 | CDS View · Association/Composition · Managed RAP · Draft · Validation · Determination · OData V4 · Fiori Elements |
 
 ### 산출물
-- [RAP 개인 최종 포트폴리오 (PPTX)](kdt2/KDT2_RAP_Final_Portfolio_v6.pptx)
-- [FS 기술명세서 TS (PPTX)](kdt2/KDT2_TS_FS_Spec.pptx)
+- [RAP 개인 최종 포트폴리오 (PPTX)](kdt2_git_upload/kdt2/KDT2_RAP_Final_Portfolio_v6.pptx)
+- [FS 기술명세서 TS (PPTX)](kdt2_git_upload/kdt2/KDT2_TS_FS_Spec.pptx)
 
 ### 포트폴리오 요약
 
 | | |
 |:--:|:--:|
-| ![표지](kdt2/images/slide01.jpg) | ![프로젝트 개요](kdt2/images/slide02.jpg) |
-| ![개발 범위](kdt2/images/slide03.jpg) | ![Classic ABAP → RAP](kdt2/images/slide04.jpg) |
-| ![RAP 설계 구조](kdt2/images/slide05.jpg) | ![Validation](kdt2/images/slide06.jpg) |
-| ![Value Help / Draft](kdt2/images/slide07.jpg) | ![Determination](kdt2/images/slide08.jpg) |
-| ![Classic vs RAP](kdt2/images/slide09.jpg) | ![개선 결과](kdt2/images/slide10.jpg) |
-| ![후속 확장 설계](kdt2/images/slide11.jpg) | ![핵심 성과](kdt2/images/slide12.jpg) |
-
+| ![표지](kdt2_git_upload/kdt2/images/slide01.png) | ![프로젝트 개요](kdt2_git_upload/kdt2/images/slide02.png) |
+| ![개발 범위](kdt2_git_upload/kdt2/images/slide03.png) | ![Classic ABAP → RAP](kdt2_git_upload/kdt2/images/slide04.png) |
+| ![RAP 설계 구조](kdt2_git_upload/kdt2/images/slide05.png) | ![Validation](kdt2_git_upload/kdt2/images/slide06.png) |
+| ![Value Help / Draft](kdt2_git_upload/kdt2/images/slide07.png) | ![Determination](kdt2_git_upload/kdt2/images/slide08.png) |
+| ![Classic vs RAP](kdt2_git_upload/kdt2/images/slide09.png) | ![개선 결과](kdt2_git_upload/kdt2/images/slide10.png) |
+| ![후속 확장 설계](kdt2_git_upload/kdt2/images/slide11.png) | ![핵심 성과](kdt2_git_upload/kdt2/images/slide12.png) |
