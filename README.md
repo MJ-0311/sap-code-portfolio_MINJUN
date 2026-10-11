@@ -107,3 +107,33 @@ KPI 타일 · 3D 공장 시각화(클릭 시 CCTV 팝업) · 간트차트/공정
 - **백엔드부터 화면까지 전 구간 완주** — 테이블 설계부터 UI5 배포까지, 데이터 모델이 화면 개발 생산성을 좌우함을 체감
 - **추측이 아닌 실제 데이터 기반 개발** — 중간평가 피드백 전수 리스트업, 수정 전후 문서화하여 개선 완료
 - **모듈 간 데이터 흐름 조율(PM)** — MM·SD·FI·CO 팀원들과 인터페이스를 정의하고 통합 시나리오 완성
+
+
+---
+
+## KDT 심화과정 2기 — SAP RAP 프로젝트 (보강)
+
+> S-Mobile(스마트폰 Set 상품 판매 가상 유통기업) 구매·자재·FI 업무를 **SAP RAP(Managed, Draft, OData V4, Fiori Elements)** 으로 구현한 팀 및 개인 프로젝트 (FS00 ~ FS06)
+
+| 구분 | 내용 |
+|---|---|
+| 과정 | SAP KDT 심화과정 2기 (28번 최민준) |
+| 구현 범위 | FS00 공통 Search Help · FS01 자재관리(MARA) · FS02 FI 계정관리(SKA1) · FS03 공급업체관리(LFA1) · FS04 계정결정관리(T030) · FS05 구매정보레코드(EINA/EINE) · FS06 구매오더(EKKO/EKPO) |
+| 후속 설계 | FS07 입고(GR) · FS08 회계전표(FI) |
+| 주요 기술 | CDS View · Association/Composition · Managed RAP · Draft · Validation · Determination · OData V4 · Fiori Elements |
+
+### 산출물
+- [RAP 개인 최종 포트폴리오 (PPTX)](kdt2/KDT2_RAP_Final_Portfolio_v6.pptx)
+- [FS 기술명세서 TS (PPTX)](kdt2/KDT2_TS_FS_Spec.pptx)
+
+### 포트폴리오 요약
+
+| | |
+|:--:|:--:|
+| ![표지](kdt2/images/slide01.jpg) | ![프로젝트 개요](kdt2/images/slide02.jpg) |
+| ![개발 범위](kdt2/images/slide03.jpg) | ![Classic ABAP → RAP](kdt2/images/slide04.jpg) |
+| ![RAP 설계 구조](kdt2/images/slide05.jpg) | ![Validation](kdt2/images/slide06.jpg) |
+| ![Value Help / Draft](kdt2/images/slide07.jpg) | ![Determination](kdt2/images/slide08.jpg) |
+| ![Classic vs RAP](kdt2/images/slide09.jpg) | ![개선 결과](kdt2/images/slide10.jpg) |
+| ![후속 확장 설계](kdt2/images/slide11.jpg) | ![핵심 성과](kdt2/images/slide12.jpg) |
+
